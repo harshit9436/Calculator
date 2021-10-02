@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="xPowerYText">10<sup><small>x</small></sup></string>
+    <string name="eSquaredText">e<sup><small>x</small></sup></string>
+    <string name="cos">cos</string>
+    <string name="log">log</string>
+    <string name="sin">sin</string>
+    <string name="tan">tan</string>
+    <string name="sqrt">√</string>
+    <string name="ln">ln</string>
+
+
+</resources>
